@@ -3,7 +3,7 @@
   
   <h1>⚡ Advanced DP Optimization Algorithms</h1>
 
-  <p><strong>A deep-dive into the most powerful Dynamic Programming optimization techniques</strong><br/>
+  <p><strong>A deep-dive into the most powerful Dynamic Programming optimization techniques !</strong><br/>
   As explored on <a href="https://www.youtube.com/@code-with-Bharadwaj">@code-with-Bharadwaj</a></p>
 
   <p>
